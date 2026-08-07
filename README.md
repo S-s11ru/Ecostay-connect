@@ -6,9 +6,7 @@ EcoStay Connect is an AI-assisted homestay and eco-tourism booking web applicati
 
 https://your-vercel-link.vercel.app
 
-## Demo Video
 
-(Will be updated after recording)
 
 ## Features
 
