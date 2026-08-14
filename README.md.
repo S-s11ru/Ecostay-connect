@@ -1,0 +1,26 @@
+## Week 7 – AI API Integration
+
+### AI Feature
+
+EcoStay Connect now includes an AI-powered EcoStay Assistant that recommends eco-friendly homestays based on:
+
+* Location
+* Budget
+* Number of guests
+* Travel preferences
+
+### AI Endpoint
+
+POST /api/ai/recommend
+
+### Technologies
+
+* Node.js
+* Express.js
+* MongoDB Atlas
+* Mongoose
+* Google Gemini API (planned integration)
+
+### Prompt Documentation
+
+See PROMPTS.md for tested prompt variations.
